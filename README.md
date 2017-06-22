@@ -10,4 +10,4 @@ At the very beginning of Machine Translation history, rule-based machine transla
 There is no special user interface designed for the program. Program should be run in any environment which can run Python 3.5.1. User should call the “python3 Main.py” command in linux terminal or any other environment for program execution. In any of these environments, to stop the words, the regarding program execution stop command can be used like CTRL+C in linux. Additionally, by choosing terminate option by pressing 9, user can stop the program.
 
 #### Additional Information
-Please find all the details about the project in the file ["Design and Implemantation Report"](https://github.com/onurmus/IBM-Models-1-2-3/Design_and_Implementation.pdf)
+Please find all the details about the project in the file ["Design and Implemantation Report"](https://github.com/onurmus/IBM-Models-1-2-3/blob/master/Design_and_Implementation.pdf)
